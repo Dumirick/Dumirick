@@ -5,7 +5,8 @@ Eu sou Rychard Dumirick
 
 Sou estudante do curso de Analise e Desenvolvimento de Sistemas 🎓
 
-Meu foco atualmente é FullStack 👨‍💻
+Java☕ / Python🐍
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dumirick&show_icons=true&theme=merko"/>
@@ -23,4 +24,10 @@ Meu foco atualmente é FullStack 👨‍💻
  <img align="center" alt="Dumirick-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
  <img align="center" alt="Dumirick-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   
+</div>
+
+
+<div>
+  <p align="center"> Quantidade de visitas no meu perfil desde: 13/03/2022 🕵️ </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Dumirick/count.svg" /></p>
 </div>
